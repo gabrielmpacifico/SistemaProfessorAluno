@@ -1,0 +1,30 @@
+{
+  "name": "professoraluno",
+  "version": "1.0.0",
+  "description": "Sistema responsavel por calcular notas, gerar graficos e guardar dados para professores e professoras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmpacifico/SistemaProfessorAluno.git"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "react",
+    "reactjs"
+  ],
+  "author": "Gabriel Misseno Pacifico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmpacifico/SistemaProfessorAluno/issues"
+  },
+  "homepage": "https://github.com/gabrielmpacifico/SistemaProfessorAluno#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
